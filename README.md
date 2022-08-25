@@ -14,3 +14,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=apostolova90&show_icons=true&locale=en" alt="apostolova90" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=apostolova90&" alt="apostolova90" /></p>
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=apostolova90)](https://github.com/apostolova90/github-readme-stats)
