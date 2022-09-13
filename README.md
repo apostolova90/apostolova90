@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=apostolova90&label=Profile%20views&color=0e75b6&style=flat" alt="apostolova90" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=apostolova90" alt="apostolova90" /></a> </p>
-
 - 🌱 I’m currently learning **JavaScript, Java, HTML and CSS**
 
 <h3 align="left">Connect with me:</h3>
@@ -19,3 +17,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=apostolova90&show_icons=true&locale=en" alt="apostolova90" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=apostolova90&" alt="apostolova90" /></p>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=apostolova90)](https://github.com/apostolova90/github-readme-stats)
